@@ -2,6 +2,9 @@ package PolyMorphisam;
 
 public class CompiletimePolyMorphisam {
 
+	//compile means loading right
+	//example for compile time means methodoverLOADING
+
 	public class Calculator {
 		// Method to add two integers
 		public int add(int a, int b) {
